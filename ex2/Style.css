@@ -51,9 +51,6 @@ p {
 #f2 {
     display: flex;
     list-style: none;
-    transition: width 2s;
+
     background-color: cyan;
-}
-#f2:hover{
-    width: 3rem;
 }
